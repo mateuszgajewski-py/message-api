@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('MESSAGE_SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['gajek-message-app.herokuapp.com']
+ALLOWED_HOSTS = ['gajek-message-api.herokuapp.com']
 
 
 # Application definition
